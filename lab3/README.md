@@ -1,3 +1,1 @@
-A program that processes character strings. The program must read lines from a file. Each modified line is output through the standard output stream.
-The program reads the file name from the FILENAME environment variable, then removes unnecessary separators in each line, changes the case of Latin
-letters, and leaves the remaining characters unchanged
+Программа обрабатывает символьные строки, считывая их из файла. Каждая измененная строка выводится через стандартный поток вывода. Программа считывает имя файла из переменной среды FILENAME, затем удаляет лишние символы-разделители в каждой строке, заменяя их одним пробелом между словами, изменяет регистр латинских букв, оставляя остальные символы без изменений.
