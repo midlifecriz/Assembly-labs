@@ -1,1 +1,7 @@
-Educational assignments written during the course of studying the NASM assembly at the Department of Computer Systems and Technologies of the National Research Nuclear University MEPhI
+Лабораторные работы, написанные в рамках курса Ассемблера (NASM x84-64).
+5 лабораторных работ по темам:
+1) Целочисленная арифметика
+2) Сортировка матрицы
+3) Обработка строк и работа с файлом
+4) Арифметика с плавающей точкой
+5) Ассемблерные вставки
